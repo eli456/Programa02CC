@@ -6,7 +6,7 @@ package com.mycompany.programa02cc;
 
 /**
  *
- * @author irvin
+ * @author Elizabeth PG
  */
 public class Singleton {
     
